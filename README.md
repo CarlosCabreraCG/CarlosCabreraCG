@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :computer: Tecnologías que uso
+* React
+* Angular
+* PostgreSQL
+* Análisis de datos
+* Macros
+* Machine Learning
+## :space_invader: Lenguajes que manejo
+
