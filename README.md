@@ -101,7 +101,7 @@ Plataforma orientada al sector agrícola que integra tecnologías web y blockcha
 
 ## 📊 GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=swift)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=prussian)
 
 ---
 
