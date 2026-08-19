@@ -1,52 +1,81 @@
-# 👋 ¡Hola! Soy Carlos
+👋 Hola, soy Carlos Cabrera
+Ingeniería Mecatrónica · Software · Web · Mobile · Blockchain
 
-## 🎯 **Joven profesional en Ingeniería Mecatrónica y Desarrollo Web**
+Soy Ingeniero Mecatrónico y desarrollador de software, enfocado en construir aplicaciones web y móviles modernas, escalables y orientadas a resolver problemas reales.
 
-Soy un desarrollador apasionado por la tecnología, con experiencia en la creación de soluciones modernas y escalables. Me especializo en aplicaciones web y móviles, combinando mis conocimientos en ingeniería con habilidades en programación para construir proyectos funcionales, bien estructurados y centrados en el usuario.
+Me interesa especialmente la intersección entre ingeniería, software y nuevas tecnologías, desarrollando soluciones desde el frontend hasta el backend y trabajando con arquitecturas basadas en APIs, bases de datos y tecnología blockchain.
 
----
-<!--
-**CarlosCabreraCG/CarlosCabreraCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mí
+🎓 Ingeniería Mecatrónica
+💻 Desarrollo de aplicaciones web y móviles
+🧩 Desarrollo Full Stack
+⛓️ Desarrollo de Smart Contracts
+🗄️ Diseño y gestión de bases de datos
+🔌 Desarrollo e integración de REST APIs
+🛠️ Enfoque en código mantenible, soluciones escalables y aprendizaje continuo
 
-Here are some ideas to get you started:
+"Nada es imposible de programar; solo es cuestión de tiempo, lógica y dedicación."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Stack tecnológico
+Frontend
 
-## :computer: Tecnologías y herramientas
+<p> <img src="https://skillicons.dev/icons?i=angular,react,reactnative" /> </p>
 
-- **Frontend:** Angular, React, React Native, Expo  
-- **Backend:** NestJS, Node.js  
-- **Bases de datos:** PostgreSQL, Firebase  
-- **Blockchain:** Smart contracts y pagos con Polygon  
-- **Otros:** Git, REST APIs, TypeScript, JavaScript
+Angular
+React
+React Native
+Backend
 
-## :space_invader: Lenguajes de programación que manejo
-- Python
-- Javascript
-- Typescript
-- R
-- C++
-- SQL
-- VBA
-- Solidity
+<p> <img src="https://skillicons.dev/icons?i=nestjs" /> </p>
 
-## 🛠️ Proyectos destacados
+NestJS
+Bases de datos
 
-- 🌱 **Agropagos**: [Plataforma web con React y Firebasede pagos de servicios usando contratos inteligentes con Solidity en la red polygon](https://github.com/CarlosCabreraCG/Agropagos)
-- 🏢 **Remates bancarios**: [Plataforma web de React y Firebasede tokenización de propiedades y compra de bonos usando contratos inteligentes](https://github.com/CarlosCabreraCG/RematesBancarios)
-- 📱 **App Time Managment**: [Aplicaciones de React-native para la gestión inteligente del tiempo](https://github.com/CarlosCabreraCG/APPGestionTiempo)
-- 🌐 **Página web de EA Consulting Engineers**: [Página empresarial de la empresa EA Consulting Engineers SAC](https://github.com/CarlosCabreraCG/EASACweb)
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase" /> </p>
 
-## 📫 Conecta conmigo
+PostgreSQL
+SQL
+Firebase
+Blockchain
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/carlos-cabrera-gallardo)  
-- ✉️ Email: c.g.cabrera.gallardo@gmail.com
-- 🧠 Nada es imposible de programar, solo es cuestión de tiempo y dedicación
+<p> <img src="https://skillicons.dev/icons?i=solidity" /> </p>
+
+Solidity
+Smart Contracts
+Integración de aplicaciones con Blockchain
+Lenguajes
+
+<p> <img src="https://skillicons.dev/icons?i=typescript,javascript,python" /> </p>
+
+TypeScript
+JavaScript
+Python
+Herramientas
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+
+Git
+GitHub
+REST APIs
+VS Code
+🛠️ Proyectos destacados
+
+Próximamente agregaré aquí una selección de mis proyectos, incluyendo descripción, tecnologías utilizadas y enlaces a sus respectivos repositorios.
+
+🌱 Agropagos
+
+Plataforma orientada al sector agrícola que integra tecnologías web y blockchain para desarrollar soluciones de pago y gestión de servicios.
+
+Tecnologías: React · Firebase · Solidity · Blockchain
+
+🔗 Ver proyecto
+
+📊 GitHub
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosCabreraCG&show_icons=true&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCabreraCG&layout=compact&hide_border=true" height="170"/> </p>
+
+📫 Contacto
+
+<p align="left"> <a href="https://www.linkedin.com/in/carlos-cabrera-gallardo"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:c.g.cabrera.gallardo@gmail.com"> <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+<p align="center"> <i>Construyendo soluciones, aprendiendo constantemente y convirtiendo ideas en software.</i> </p>
