@@ -101,7 +101,7 @@ Plataforma orientada al sector agrícola que integra tecnologías web y blockcha
 
 ## 📊 GitHub
 
-[![Carlos Cabrera's GitHub stats](https://github-stats-extended.vercel.app/api?username=carloscabreracg)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosCabreraCG&layout=donut&langs_count=4&theme=swift)
 
 ---
 
